@@ -1,0 +1,6 @@
+{
+  "name": "KPI Incentive Calculator",
+  "description": "An interactive Bengali and English incentive calculator based on KPI score rules, featuring a modern dashboard, custom rule engine, breakdown logs, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
